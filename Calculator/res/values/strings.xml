@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CalculatiorActivity!</string>
+    <string name="app_name">Basic Calculatior</string>
+    
+	<string name="zero">0</string>
+	<string name="one">1</string>
+	<string name="two">2</string>
+	<string name="three">3</string>
+	<string name="four">4</string>
+	<string name="five">5</string>
+	<string name="six">6</string>
+	<string name="seven">7</string>
+	<string name="eight">8</string>
+	<string name="nine">9</string>
+	         
+	<string name="dot">.</string>
+	<string name="addition">+</string>
+	<string name="subtraction">-</string>
+	<string name="multiplication">x</string>
+	<string name="division">/</string>
+	
+	<string name="mc">MC</string>
+	<string name="mplus">M+</string>
+	<string name="mminus">M-</string>
+	<string name="mr">MR</string>
+	<string name="answer">=</string>	
+	             
+	<string name="ce">CE</string>
+	<string name="c">AC</string>
+	<string name="del">DEL</string>
+	<string name="equals">=</string>
+	<string name="memory">Mem</string>
+	<string name="screen"></string>
+	
+	<string name="history">Calculation History</string>
+	<string name="back">Back</string>
+
+</resources>
